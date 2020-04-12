@@ -1,0 +1,16 @@
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\April_12_2020.exe.config
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\April_12_2020.exe
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\April_12_2020.pdb
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.csprojAssemblyReference.cache
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.Properties.Resources.resources
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.csproj.GenerateResource.cache
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.csproj.CoreCompileInputs.cache
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.exe
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.pdb
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.Login.resources
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.Register.resources
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\EntityFramework.dll
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\EntityFramework.xml
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bakht\OneDrive\Desktop\Code Academy\Winform\April_12_2020\April_12_2020\obj\Debug\April_12_2020.csproj.CopyComplete
